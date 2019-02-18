@@ -1,0 +1,46 @@
+{
+    "background": {
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "anchor": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "restart": {
+        "position": {
+            "x": 400,
+            "y": 530
+        }
+    },
+    "score": {
+        "position": {
+            "x": 400,
+            "y": 300
+        },
+        "font_style": {
+            "fontFamily": "Arial",
+            "fontSize": 46,
+            "fontWeight": "bold",
+            "fill": "#ffffff",
+            "stroke": "#000000",
+            "strokeThickness": 5
+        }
+    },
+    "best_score": {
+        "position": {
+            "x": 400,
+            "y": 380
+        },
+        "font_style": {
+            "fontFamily": "Arial",
+            "fontSize": 46,
+            "fontWeight": "bold",
+            "fill": "#ffffff",
+            "stroke": "#000000",
+            "strokeThickness": 5
+        }
+    }
+}
