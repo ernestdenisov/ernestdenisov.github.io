@@ -5,6 +5,7 @@ function createImage(config, asset) {
 
 function createButton(config, asset) {
     const button = this.createGameObject(config, asset, 'button');
+    button.inputEnabled = true;
     return button;
 }
 
